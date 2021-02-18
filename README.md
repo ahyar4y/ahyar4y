@@ -2,6 +2,7 @@ __Hi, I'm Ahyar!__
 
 Welcome to my boring page
 
+I am..
 - A senior IT student from Indonesia.
 - Interested in robotics/embedded programming and computer networks/cybersecurity.
 - Currently doing an internship as .NET developer at PT. Mattel Indonesia
