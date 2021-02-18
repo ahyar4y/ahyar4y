@@ -1,6 +1,6 @@
 __Hi, I'm Ahyar!__
 
-Welcome to my boring page
+Welcome to my bland github page
 
 I am..
 - A senior IT student from Indonesia.
