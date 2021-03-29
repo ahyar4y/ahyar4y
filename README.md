@@ -4,8 +4,8 @@ Welcome to my boring github page
 
 I am..
 - A senior IT student from Indonesia.
-- Interested in robotics/embedded programming and computer networks/cybersecurity.
-- Currently doing an internship as .NET developer at PT. Mattel Indonesia
+- Interested in robotics/embedded systems, computer network/cybersecurity, and software engineering.
+- Currently doing an internship as a .NET developer at PT. Mattel Indonesia
 
 If you want to connect with me, feel free to contact me through [email](mailto:ahyar4y08@gmail.com) or [twitter](https://twitter.com/ahyar4y).
 <!---
