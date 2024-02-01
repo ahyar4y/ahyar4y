@@ -2,7 +2,7 @@ __Hello, I'm Ahyar. Nice to meet you!__
 
 Not a lot to see here.
 
-Ways to contact me:
+Several ways to contact me:
 + [Email](mailto:ahyar4y@outlook.com)
 + [LinkedIn](https://www.linkedin.com/in/ahyar4y/)
 + etc. (if you can find any)
